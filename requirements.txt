@@ -13,7 +13,7 @@ django-reversion==2.0.9
 djangorestframework==3.6.3
 future==0.16.0
 httpie==0.9.9
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.5
 itypes==1.1.0
 jieba==0.38
