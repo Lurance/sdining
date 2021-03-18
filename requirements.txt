@@ -20,7 +20,7 @@ jieba==0.38
 Markdown==2.6.8
 MarkupSafe==1.0
 olefile==0.44
-Pillow==4.2.1
+Pillow==8.1.1
 Pygments==2.2.0
 pytz==2017.2
 requests==2.18.3
